@@ -1,5 +1,5 @@
 # Hello, I'm Clay:
-Passionate about cybersecurity and full-stack software development.<br>Currently exploring Flipper Zero hacking, ethical hacking, and secure coding.<br>Always open to collaborations on cybersecurity & full-stack projects!<br>
+Passionate about cybersecurity and Full Stack Software Development.<br>Currently exploring Flipper Zero, ethical hacking, and secure coding.<br>Always open to collaborations on cybersecurity & full-stack projects!<br>
 
 
 # 💻 Tech Stack:
